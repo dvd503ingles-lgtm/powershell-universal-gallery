@@ -183,6 +183,20 @@
     "description": "A barcode scanner component for PowerShell universal. Uses your device camera, compatible with mobile devices."
   },
   {
+    "name": "PowerShellUniversal.Component.Pivot",
+    "version": "0.7.0",
+    "source": "PowerShellGallery",
+    "projectUrl": "https://github.com/eizedev/powershell-universal-components",
+    "description": "Pivot report builder for PowerShell Universal apps: readers drag fields into rows, columns, values and filters and get a table or a chart, with date grouping, drill-down to the source rows, templates, undo, Excel, CSV, PNG, SVG and HTML export and the reader's own CSV, JSON and Excel files read in the browser; light and dark theme, English and German, fed straight from SQL DataTables, REST results and PowerShell objects."
+  },
+  {
+    "name": "PowerShellUniversal.Component.Pivot.Demo",
+    "version": "0.5.0",
+    "source": "PowerShellGallery",
+    "projectUrl": "https://github.com/eizedev/powershell-universal-components",
+    "description": "Showcase app for PowerShellUniversal.Component.Pivot: pivot reports on software release cycles (endoflife.date) and weather (Open-Meteo) with shipped snapshots or live data, your own CSV, JSON and Excel files read in the browser, and a 5,000-row ticket report with templates, events and page layouts; English and German."
+  },
+  {
     "name": "PowerShellUniversal.HealthCheck.ExcessiveRunspaces",
     "version": "1.0.0",
     "source": "PowerShellGallery",
